@@ -38,8 +38,8 @@ Sviluppato da un RPA Developer come progetto personale, per esplorare librerie P
 
 
 ## 🔗 Link al progetto su LinkedIn
-Ho scritto anche un breve post su LinkedIn per raccontare questo progetto: 🔗 Vai al post (link da aggiornare dopo la pubblicazione)
-
+Ho scritto anche un breve post su LinkedIn per raccontare questo progetto: 🔗 [Vai al post
+](https://www.linkedin.com/posts/alessio-polo-5a36b3156_github-centrallightdisk-analyzer-a-python-activity-7318894815251709954-SW0t?utm_source=share&utm_medium=member_desktop&rcm=ACoAACV6eosBvP0YyjX_fWKE1mVSnW-tf0exDOA)
 ## 📄 Licenza
 MIT License – sentiti libero di usarlo, modificarlo o migliorarlo!
 
